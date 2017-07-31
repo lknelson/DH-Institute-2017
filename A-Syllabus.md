@@ -18,7 +18,7 @@ Your time in this workshop will be much more productive if you come in with some
 
 
 #### Software Required
-Please download and install [Anaconda for Python 3.5](https://www.continuum.io/downloads) on your laptops before coming to the workshop. If you have difficulties installing, please come early to class the first day for help.
+Please download and install [Anaconda for Python 3.6](https://www.continuum.io/downloads) on your laptops before coming to the workshop. If you have difficulties installing, please come early to class the first day for help.
 
 
 ## Tentative Schedule
