@@ -1,5 +1,5 @@
-## DHBSI 2016: Computational Text Analysis
-### 15-19 August 2016
+## DHBSI 2017: Computational Text Analysis
+### 14-18 August 2017
 ### Instructors: Laura Nelson and Teddy Roland	
 
 ## Overview
