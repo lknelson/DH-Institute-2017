@@ -1,0 +1,7 @@
+numpy==1.11.2
+matplotlib==1.5.3
+pandas==0.19.1
+sklearn
+scipy==0.18.1
+nltk==3.2.1
+gensim==1.0.1
