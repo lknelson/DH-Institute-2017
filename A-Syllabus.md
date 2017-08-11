@@ -66,18 +66,15 @@ Please download and install [Anaconda for Python 3.6](https://www.continuum.io/d
     * Discussion: Word Scores
 
 #### Afternoon
-- **Sandbox**
-
-
-## Day 4
-#### Morning
 - **Dictionary Methods and Comparing Texts**
     * Intro to Dictionary Methods
        * Standard, Personlized Dictionaries
     * Dictionary Analysis using LIWC
     * Application: Sentiment Analysis on Music Reviews
 
-#### Afternoon
+
+## Day 4
+#### Morning
 - **Text Classification**
     * Machine Learning
        * Supervised vs. Unsupervised Learning
@@ -85,6 +82,8 @@ Please download and install [Anaconda for Python 3.6](https://www.continuum.io/d
     * Supervised: Naive Bayes Classification
        * Literary History at the Century-Scale
        * Most Informative Features
+
+#### Afternoon
 - **Sandbox**
 
 
