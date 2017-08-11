@@ -40,23 +40,15 @@ The Orientalist adoption of the haiku was an important marker of literary presti
 
  In the study of literary history, there is an open question regarding the extent of the “great divide” between something like an elite versus a mainstream literature. Underwood and Sellers tried to answer one version of this question by seeing whether there were differences between books of poetry that were reviewed in prominent literary periodicals versus those that were not. In fact, this turned out to be the case, but even more compelling was a trend over the course of the nineteenth century, in which literature overall – both elite and mainstream –  tended to look more and more like the kinds of books that got reviews earlier in the century. 
 
-### Topic Modeling
+### Word Embedding
 
-[Of Monsters, Men -- and Topic Modeling](http://opinionator.blogs.nytimes.com/2011/05/29/of-monsters-men-and-topic-modeling/), Robert K. Nelson
+[Rejecting the gender binary: a vector-space operation](http://bookworm.benschmidt.org/posts/2015-10-30-rejecting-the-gender-binary.html), Ben Schmidt
 
-Robert K. Nelson's project [Mining the Dispatch](http://dsl.richmond.edu/dispatch/pages/intro) topic models articles from the <i>Richmond Daily Dispatch</i>, the paper of record of the Confederacy, over the course of the American Civil War. Following two topics that seem to rise and fall in tandem, Anti-Northern Diatribes and Poetry and Patriotism, Nelson identifies them as two sides of the same coin in the war effort. Taken together, they not only reveal how the Confederacy understood itself in relation to the war, but the simultaneous spikes and drops of these topics offer what he refers to as “a cardiogram of the Confederate nation.”
+In word-embedding space, we can draw a line from a cluster of feminine gendered pronouns to masculine ones (and vice-versa). This line consitutes a vector of gendered difference in language. What would happen if we simply removed that component from our language as a whole? How would the words we use to describe people change? Schmidt uses reviews from "Rate My Professor" in order to identify ways that gender shapes student's perceptions of their instructors.
 
-[Topic Modeling and Figurative Language](journalofdigitalhumanities.org/2-1/topic-modeling-and-figurative-language-by-lisa-m-rhody/), Lisa M. Rhody
+[Word Vectors in the Eighteenth Century](http://ryanheuser.org/word-vectors/), Ryan Heuser
 
-The explicit objective of LDA is to identify words that cluster together in some meaningful way, yet it is unable to tell us what that meaning is. This poses a problem for literature in which techniques like irony and metaphor can distance a word from its dictionary meanings in unexpected ways. Rhody examines topics assigned to a particular poem, giving special attention to one with a deeply ambiguous relationship among its terms.
-
-[The fictionality of topic modeling](http://bds.sagepub.com/content/spbds/2/2/2053951715610591.full.pdf), Rachel Sagner Buurma
-
-Buurma has framed topic modeling as a tool that can productively defamiliarize a text and uses this to explore novelistic genre. Taking Anthony Trollope's six Barsetshire novels as her object of study, Buurma suggests that we should read the series not as a formal totality – as we might do for a novel with a single, omniscient narrator – but in terms of its partial and uneven nature. The prominence of particular topics across disparate chapters offer alternate traversals through the books and across the series.
-
-[Topic Modeling Made Just Simple Enough](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/), Ted Underwood
-
-Abstract: "Right now, humanists often have to take topic modeling on faith. There are several good posts out there that introduce the principle of the thing (by Matt Jockers, for instance, and Scott Weingart). But it’s a long step up from those posts to the computer-science articles that explain “Latent Dirichlet Allocation” mathematically. My goal in this post is to provide a bridge between those two levels of difficulty."
+In this blog series, Heuser explores the question: "How can new vector-based models of semantics reveal the historicity of specific configurations of meaning in eighteenth-century literature?" Each post offers a different model or application of word2vec embeddings, from analogies to networks. As he goes, the models are connected back to problems in C18 literary and intellectual history.
 
 ### Stylistics
 
