@@ -12,7 +12,7 @@ Scholars across multiple disciplines are finding themselves face-to-face with ma
 - **Discriminating Words**
 - **Dictionary Methods**
 - **Textual Classification**
-- **Topic Modeling**
+- **Word Embedding**
 
 ## Requirements
 
