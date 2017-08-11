@@ -90,10 +90,10 @@ Please download and install [Anaconda for Python 3.6](https://www.continuum.io/d
 
 ## Day 5
 #### Morning
-- **Topic Modeling**
-    * Topic Modeling Algorithm (LDA)
+- **Word Embedding**
+    * Vector Semantics & Word2Vec
     * Package: gensim
-    * Topic Model Analysis: Metadata, Visualization
+    * Word Embedding Analysis: Analogies, Visualization
 - **Wrap-Up**
 
 #### Afternoon
